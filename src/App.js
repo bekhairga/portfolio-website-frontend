@@ -1,11 +1,12 @@
 import React from 'react';
+import styled from 'styled-components';
 
 const App = () => {
 	return (
-		<div>
+		<AppStyled>
 			<h1>Hello world</h1>
-		</div>
+		</AppStyled>
 	);
 };
-
+const AppStyled = styled.div``;
 export default App;
