@@ -1,10 +1,11 @@
 import React from 'react';
 import styled from 'styled-components';
+import Sidebar from './components/Sidebar';
 
 const App = () => {
 	return (
 		<AppStyled>
-			<h1>Hello world</h1>
+			<Sidebar />
 		</AppStyled>
 	);
 };
