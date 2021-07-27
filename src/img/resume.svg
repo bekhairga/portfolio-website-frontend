@@ -1,0 +1,114 @@
+<?xml version="1.0" standalone="no"?>
+<svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg" width="680" height="880" text-rendering="geometricPrecision" viewBox="0 0 816 1055" style="margin:0 auto;" class="ffcg">
+<defs>
+	<style>
+    text{font-size:15px;}
+    .ffcg{font-family:"Century Gothic", Helvetica, sans-serif;fill:#4a4a4a;}
+    .fwb{font-weight:700;}
+    .text-bdr{fill:#bcbfc3;}
+    .name{font-size:54px;}
+    .address{font-size:14px;}
+    .summary-text{font-size:15px;}
+  </style>
+</defs>
+	<text x="180" y="87" class="name" textLength="451">JONATHAN SMITH</text>
+	<text x="165" y="116" textLength="486" class="address">jon-example@example.com | (555)432-1000 | Altamonte Springs, FL</text>
+
+	<rect x="53" y="155" width="709" height="20" class="text-bdr"></rect>
+	<text x="66" y="171" textLength="192" class="fwb">PROFESSIONAL SUMMARY</text>
+	<text x="66" y="203" class="summary-text">
+		<tspan textLength="678">Results-oriented Customer Service Representative focused on increasing profits, reducing costs,</tspan>
+		<tspan x="66" dy="20" textLength="615">inventory management and transforming customer service standards. Delivers positive</tspan>
+		<tspan x="66" dy="20" textLength="346">experiences through high-quality customer care.</tspan>
+	</text>
+
+	<rect x="53" y="280" width="709" height="20" class="text-bdr"></rect>
+	<text x="66" y="296" class="fwb">SKILLS</text>
+	<circle cx="70" cy="325" r="3" class="disc" />
+	<circle cx="70" cy="345" r="3" class="disc" />
+	<circle cx="70" cy="365" r="3" class="disc" />
+	<circle cx="412" cy="325" r="3" class="disc" />
+	<circle cx="412" cy="345" r="3" class="disc" />
+	<circle cx="412" cy="365" r="3" class="disc" />
+
+	<text x="83" y="330">
+		<tspan textLength="155">Strong client relations</tspan>
+		<tspan x="83" dy="20" textLength="203">Stock records management</tspan>
+		<tspan x="83" dy="20" textLength="113">Order fulfillment</tspan>
+	</text>
+
+	<text x="425" y="330">
+		<tspan textLength="221">Customer complaint resolution</tspan>
+		<tspan x="425" dy="20" textLength="181">New product information</tspan>
+		<tspan x="425" dy="20" textLength="160">Warehousing functions</tspan>
+	</text>
+
+	<rect x="53" y="408" width="709" height="20" class="text-bdr"></rect>
+	<text x="66" y="424" textLength="113" class="fwb">WORK HISTORY</text>
+
+	<text x="66" y="456">
+		<tspan textLength="132">Jan 2018 - Current</tspan>
+		<tspan x="66" dy="20" textLength="238" class="fwb">Customer Service Representative</tspan>
+		<tspan x="66" dy="20" textLength="225">Walmart - Altamonte Springs, FL</tspan>
+	</text>
+	<circle cx="331" cy="452" r="3" class="disc" />
+	<circle cx="331" cy="472" r="3" class="disc" />
+	<circle cx="331" cy="492" r="3" class="disc" />
+	<circle cx="331" cy="512" r="3" class="disc" />
+	<circle cx="331" cy="532" r="3" class="disc" />
+	<text x="343" y="456">
+		<tspan textLength="393">Assessed customer needs and responded to questions.</tspan>
+		<tspan x="343" dy="20" textLength="274">Cleaned and straightened work area.</tspan>
+		<tspan x="343" dy="20" textLength="276">Issued receipts for purchases and gifts,</tspan>
+		<tspan x="343" dy="20" textLength="335">Worked with customer service to resolve issues.</tspan>
+		<tspan x="343" dy="20" textLength="397">Directed training of new team members and mentored</tspan>
+		<tspan x="343" dy="20" textLength="381">each to promote productivity, accuracy and friendly</tspan>
+		<tspan x="343" dy="20" textLength="55">service.</tspan>
+	</text>
+
+	<text x="66" y="609">
+		<tspan textLength="145">Aug 2016 - Jan 2018</tspan>
+		<tspan x="66" dy="20" textLength="238" class="fwb">Customer Service Representative</tspan>
+		<tspan x="66" dy="20" textLength="186">Home Depot - Orlando, FL</tspan>
+	</text>
+	<circle cx="331" cy="605" r="3" class="disc" />
+	<circle cx="331" cy="665" r="3" class="disc" />
+	<circle cx="331" cy="705" r="3" class="disc" />
+	
+	<text x="343" y="610">
+		<tspan textLength="402">Handled acceptance of delivered packages, checking</tspan>
+		<tspan x="343" dy="20" textLength="394">and ensuring proper product type and amounts during</tspan>
+		<tspan x="343" dy="20" textLength="196">unloading of merchandise.</tspan>
+		<tspan x="343" dy="20" textLength="376">Restocked inventory ever month and reviewed cash</tspan>
+		<tspan x="343" dy="20" textLength="333">operation data to verify proper replenishment.</tspan>
+		<tspan x="343" dy="20" textLength="358">Routinely answered customer questions regarding</tspan>
+		<tspan x="343" dy="20" textLength="184">merchandise and pricing.</tspan>
+	</text>
+
+	<text x="66" y="763">
+		<tspan textLength="140">Jun 2015 - Jun 2016</tspan>
+		<tspan x="66" dy="20" textLength="58" class="fwb">Cashier</tspan>
+		<tspan x="66" dy="20" textLength="169">Walgreens - Orlando, FL</tspan>
+	</text>
+	<circle cx="331" cy="758" r="3" class="disc" />
+	<circle cx="331" cy="798" r="3" class="disc" />
+	<circle cx="331" cy="838" r="3" class="disc" />
+	<text x="343" y="763">
+		<tspan textLength="404">Received payments by cash, credit and personal check</tspan>
+		<tspan x="343" dy="20" textLength="264">and gave back the correct change.</tspan>
+		<tspan x="343" dy="20" textLength="394">Checked identification for proof-of-age and refused to</tspan>
+		<tspan x="343" dy="20" textLength="310">sell alcohol to anyone under the age of 21.</tspan>
+		<tspan x="343" dy="20" textLength="354">Responded to customer requests and directed to</tspan>
+		<tspan x="343" dy="20" textLength="98">merchandise.</tspan>
+	</text>
+
+	<rect x="53" y="900" width="709" height="20" class="text-bdr"></rect>
+	<text x="66" y="916" textLength="88" class="fwb">EDUCATION</text>
+
+	<text x="66" y="950">
+		<tspan textLength="35">2017</tspan>
+		<tspan x="66" dy="19" textLength="126" class="fwb">Associate of Arts:</tspan>
+		<tspan x="192" textLength="72">Sociology</tspan>
+		<tspan x="66" dy="20" textLength="330">Seminole State College of Florida | Sanford, FL</tspan>
+	</text>
+</svg>
