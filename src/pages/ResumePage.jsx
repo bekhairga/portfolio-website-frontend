@@ -1,11 +1,12 @@
-import React from 'react';
+import React from "react";
+import Skills from "../components/Skills";
 
-const Resume = () => {
-    return (
-        <div>
-           <h1>Resume</h1>
-        </div>
-    );
+const ResumePage = () => {
+  return (
+    <div>
+      <Skills />
+    </div>
+  );
 };
 
-export default Resume;
+export default ResumePage;
