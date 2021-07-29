@@ -1,5 +1,5 @@
 import React from 'react';
-import { MainLayout, InnerLayout } from './../styles/Layouts';
+import { MainLayout, InnerLayout } from '../styles/Layouts';
 import Title from '../components/Title';
 import styled from 'styled-components';
 import PrimaryButton from '../components/PrimaryButton';
@@ -32,7 +32,7 @@ const ContactPage = () => {
 							</div>
 							<div className='form-field'>
 								<label htmlFor='textarea'>Enter your message</label>
-								<textarea name='textarea' id='textarea'></textarea>
+								<textarea name='textarea' id='textarea'/>
 							</div>
 							<div className='form-field'>
 								<PrimaryButton title='Send Email' />
